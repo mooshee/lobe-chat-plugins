@@ -6,14 +6,14 @@
   "manifest": "https://gisdb.io/mcp",
   "meta": {
     "avatar": "https://gisdb.io/assets/stickers/sticker_topography.png",
-    "category": "developer",
-    "description": "Search normalized U.S. county GIS parcel, zoning, tax, deed, and permit databases across 3,140+ counties over MCP.",
+    "category": "tools",
+    "description": "Search county property records, inspect owner-name portfolios, discover geographic directory products, save lead searches, and manage account-inbox CSV lead delivery. 15 tools: gisdb_search_catalog, gisdb_get_metadata, gisdb_search_records, gisdb_guide_search, gisdb_start_search, gisdb_continue_search, gisdb_get_search, gisdb_save_search, gisdb_list_saved_searches, gisdb_create_checkout, gisdb_get_order, gisdb_open_billing_portal, gisdb_cancel_subscription, gisdb_get_lead_updates, gisdb_set_lead_updates.",
     "tags": [
       "mcp",
       "gis",
       "real-estate",
-      "parcels",
-      "zoning",
+      "property-records",
+      "leads",
       "county-data"
     ],
     "title": "GISDB"
