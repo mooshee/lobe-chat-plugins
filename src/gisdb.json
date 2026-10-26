@@ -1,0 +1,22 @@
+{
+  "author": "mooshee",
+  "createdAt": "2026-10-26",
+  "homepage": "https://gisdb.io",
+  "identifier": "gisdb",
+  "manifest": "https://gisdb.io/mcp",
+  "meta": {
+    "avatar": "https://gisdb.io/assets/stickers/sticker_topography.png",
+    "category": "developer",
+    "description": "Search normalized U.S. county GIS parcel, zoning, tax, deed, and permit databases across 3,140+ counties over MCP.",
+    "tags": [
+      "mcp",
+      "gis",
+      "real-estate",
+      "parcels",
+      "zoning",
+      "county-data"
+    ],
+    "title": "GISDB"
+  },
+  "schemaVersion": 1
+}
