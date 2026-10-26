@@ -1,0 +1,22 @@
+{
+  "author": "mooshee",
+  "createdAt": "2026-10-26",
+  "homepage": "https://untax.io",
+  "identifier": "untax",
+  "manifest": "https://untax.io/mcp",
+  "meta": {
+    "avatar": "https://untax.io/assets/stickers/sticker_sledgehammer.png",
+    "category": "developer",
+    "description": "Search U.S. property assessments, evaluate property tax exemptions and appeal filings, and look up VA facilities and forms over MCP.",
+    "tags": [
+      "mcp",
+      "real-estate",
+      "property-tax",
+      "veterans",
+      "assessments",
+      "appeals"
+    ],
+    "title": "Untax"
+  },
+  "schemaVersion": 1
+}
