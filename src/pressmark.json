@@ -6,7 +6,7 @@
   "manifest": "https://pressmark.dev/mcp",
   "meta": {
     "avatar": "https://pressmark.dev/static/icon-512.png",
-    "description": "Sub-25ms vector PDF synthesis engine for invoices, estimates, receipts, contracts, NDAs, and 50-state statutory real estate agreements with 1-scan QR payments. 6 tools: generate_document, preview_document, convert_document, record_payment, calculate_totals, get_pricing.",
+    "description": "Sub-25ms vector PDF synthesis engine for invoices, estimates, receipts, contracts, NDAs, and 50-state statutory real estate agreements with 1-scan QR payments. 6 tools: generate_document, preview_document, convert_document, record_payment, calculate_totals, get_pricing. By Moosh Works (mooshworks.com).",
     "tags": [
       "mcp",
       "invoicing",
